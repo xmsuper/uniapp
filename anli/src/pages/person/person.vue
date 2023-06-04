@@ -59,6 +59,7 @@
 		if (e.detail.errMsg == 'getPhoneNumber:ok') {
 			console.log('hh')
 			console.log('rrr')
+			console.log('jjjj')
 			// let pc = new WXBizDataCrypt('wx2f8466dcb242da06', session_key.value); //wxXXXXXXX为你的小程序APPID  
 			// let data = pc.decryptData(e.detail.encryptedData, e.detail.iv);
 
